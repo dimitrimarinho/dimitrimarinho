@@ -8,9 +8,9 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <img height="50em" src="imgs/python-logo.png"/>
 Códigos em Python escritos por mim: <br>
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
-- https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc
-- https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes
-- https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes
+<li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
+<li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
+<li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
 
 <br>
 <div align="center">
