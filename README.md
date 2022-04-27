@@ -7,7 +7,7 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <br>
 
 <img align="end" height="80em" src="imgs/python-logo.png"/> 
-     Códigos em Python escritos por mim: <br>
+     Códigos em Python escritos por mim: <br><br>
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
