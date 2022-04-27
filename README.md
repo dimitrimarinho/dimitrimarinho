@@ -5,7 +5,7 @@
 
 Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 
-Códigos escritos em Python:
+Códigos em Python escritos por mim:
 <br> https://github.com/dimitrimarinho/averag_mult_three
 <br> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc
 <br> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes
