@@ -22,7 +22,7 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <br></br>
 
 
-<img src="https://en.wikichip.org/w/images/0/07/mainpage_mips_chip.svg" title="C" alt="C" width="40" height="40"/> Códigos em Assembly escritos por mim:
+<img src="https://en.wikichip.org/w/images/0/07/mainpage_mips_chip.svg" title="Assembly" alt="Assembly" width="40" height="40"/> Códigos em Assembly escritos por mim:
 <li> https://github.com/dimitrimarinho/MATA49-Programacao-de-Software-Basico</li>
 <li> https://github.com/dimitrimarinho/Trabalho-PSB-2018.2 </li>
 <li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-I </li>
