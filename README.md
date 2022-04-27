@@ -5,7 +5,7 @@
 
 Atualmente estou participando de um Bootcamp intensivo de Java FullStack Jr. com duração de 3 meses (08:00 às 17:00) proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 
-
+<br>
 <div align="center">
   <a href="https://github.com/dimitrimarinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrimarinho&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,5 +16,6 @@ Atualmente estou participando de um Bootcamp intensivo de Java FullStack Jr. com
   <a href="https://www.linkedin.com/in/dimitrimarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-
-![Snake animation](https://github.com/dimitrimarinho/dimitrimarinho/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/dimitrimarinho/dimitrimarinho/blob/output/github-contribution-grid-snake.svg)
+</div>
