@@ -6,14 +6,14 @@
 Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 <br>
 
-<img align="end" height="80em" src="imgs/python-logo.png"/> 
+<img align="end" height="80em" src="imgs/python-logo.png" alt="Logo da Linguagem de Programação Python"/> 
      Códigos em Python escritos por mim: <br><br>
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
 
-<img align="end" height="80em" src="imgs/java-logo.webpm"/> 
+<img align="end" height="80em" src="imgs/java-logo.webpm" alt="Logo da Linguagem de Programação Java"/> 
      Códigos em Java escritos por mim: <br><br>
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
 
