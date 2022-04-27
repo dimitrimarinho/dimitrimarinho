@@ -13,17 +13,14 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
 <br></br>
 
-
-
 <img height="40em" src="imgs/java-logo.png" alt="Logo da Linguagem de Programação Java"/> Códigos em Java escritos por mim:
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
-
-
-
+<br></br>
 
 <img align-content="flex-end" height="40em" src="imgs/C-logo.png" alt="Logo da Linguagem de Programação C"/> Códigos em C escritos por mim:
 <li> https://github.com/dimitrimarinho/Introduction-to-Programming-Logic </li>
 <br>
+
 <div align="center">
   <a href="https://github.com/dimitrimarinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrimarinho&layout=compact&langs_count=7&theme=dracula"/>
