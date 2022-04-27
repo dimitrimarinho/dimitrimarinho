@@ -16,6 +16,9 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <img height="40em" src="imgs/java-logo.png" alt="Logo da Linguagem de Programação Java"/> Códigos em Java escritos por mim:
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
 
+<img height="40em" src="imgs/c-logo.png" alt="Logo da Linguagem de Programação C"/> Códigos em C escritos por mim:
+<li> https://github.com/dimitrimarinho/Introduction-to-Programming-Logic </li>
+
 <br>
 <div align="center">
   <a href="https://github.com/dimitrimarinho">
