@@ -19,6 +19,14 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 
 <img align-content="flex-end" height="40em" src="imgs/C-logo.png" alt="Logo da Linguagem de Programação C"/> Códigos em C escritos por mim:
 <li> https://github.com/dimitrimarinho/Introduction-to-Programming-Logic </li>
+<br></br>
+
+<img align-content="flex-end" height="40em" src="imgs/assembly-example.png" alt="Exemplo da Linguagem de Programação Assembly"/> Códigos em Assembly escritos por mim:
+<li> https://github.com/dimitrimarinho/MATA49-Programacao-de-Software-Basico</li>
+<li> https://github.com/dimitrimarinho/Trabalho-PSB-2018.2 </li>
+<li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-I </li>
+<li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-II </li>
+
 <br>
 
 <div align="center">
