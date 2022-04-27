@@ -1,4 +1,4 @@
-## Olá, me chamo Dimitri Marinho.
+## Olá, me chamo Dimitri Marinho :wave: :smile:
 ### Seja bem-vindo/a ao meu GitHub !
 
 <p style="text-align:justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript e as linguagens de marcação HTML e CSS. Também estudo Python por conta própria.
