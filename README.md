@@ -7,14 +7,14 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <br>
 
 <img align="end" height="80em" src="imgs/python-logo.png" alt="Logo da Linguagem de Programação Python"/> 
-     Códigos em Python escritos por mim: <br><br>
+Códigos em Python escritos por mim:
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
-
+<br>
 <img align="end" height="80em" src="imgs/java-logo.webp" alt="Logo da Linguagem de Programação Java"/> 
-     Códigos em Java escritos por mim: <br><br>
+Códigos em Java escritos por mim: <br><br>
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
 
 <br>
