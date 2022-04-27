@@ -13,7 +13,7 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
 <br></br>
 
-<img height="40em" src="imgs/java-logo.png" alt="Logo da Linguagem de Programação Java"/> Códigos em Java escritos por mim:
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
 <br></br>
 
