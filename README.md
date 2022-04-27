@@ -6,7 +6,7 @@
 Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 <br>
 
-<img height="40em" src="imgs/python-logo.png" alt="Logo da Linguagem de Programação Python"/> Códigos em Python escritos por mim:
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>  Códigos em Python escritos por mim:
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
@@ -17,11 +17,12 @@ Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java
 <li> https://github.com/dimitrimarinho/MATA55-Programacao-Orientada-a-Objetos </li>
 <br></br>
 
-<img align-content="flex-end" height="40em" src="imgs/C-logo.png" alt="Logo da Linguagem de Programação C"/> Códigos em C escritos por mim:
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>  Códigos em C escritos por mim:
 <li> https://github.com/dimitrimarinho/Introduction-to-Programming-Logic </li>
 <br></br>
 
-<img align-content="flex-end" height="40em" src="imgs/assembly-img.jpg" alt="Exemplo da Linguagem de Programação Assembly"/> Códigos em Assembly escritos por mim:
+
+<img src="https://en.wikichip.org/w/images/0/07/mainpage_mips_chip.svg" title="Assembly" alt="Assembly" width="40" height="40"/> Códigos em Assembly escritos por mim:
 <li> https://github.com/dimitrimarinho/MATA49-Programacao-de-Software-Basico</li>
 <li> https://github.com/dimitrimarinho/Trabalho-PSB-2018.2 </li>
 <li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-I </li>
