@@ -4,8 +4,10 @@
 <p align="justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript e as linguagens de marcação HTML e CSS. Também estudo Python por conta própria.
 
 Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
+<br>
 
-<img align="end" height="80em" src="imgs/python-logo.png"/> Códigos em Python escritos por mim: <br>
+<img align="end" height="80em" src="imgs/python-logo.png"/> 
+Códigos em Python escritos por mim: <br>
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
