@@ -7,7 +7,7 @@
 
 <p align="justify"> Em Abril de 2022 concluí o <a href="https://drive.google.com/file/d/1cG_eNqThujruLk0hUhbbFQE27lqep8qV/view"> Bootcamp da Digital Innovation One de Cloud Data Engineer (Cognizant)</a>.<br> O conteúdo que aprendi no Bootcamp pode ser encontrado <a href="https://github.com/dimitrimarinho/Cognizant-Cloud-Data-Engineer-2/tree/main/Conte%C3%BAdo">[neste repositório]</a>.</p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> <p align-content="center"> Códigos em Python escritos por mim:</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> Códigos em Python escritos por mim:
 
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
@@ -23,13 +23,11 @@
 <li> https://github.com/dimitrimarinho/Introduction-to-Programming-Logic </li>
 <br></br>
 
-
 <img src="https://en.wikichip.org/w/images/0/07/mainpage_mips_chip.svg" title="Assembly" alt="Assembly" width="40" height="40"/> Códigos em Assembly escritos por mim:
 <li> https://github.com/dimitrimarinho/MATA49-Programacao-de-Software-Basico</li>
 <li> https://github.com/dimitrimarinho/Trabalho-PSB-2018.2 </li>
 <li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-I </li>
 <li> https://github.com/dimitrimarinho/MATA48-Arquitetura-de-Computadores-Work-II </li>
-
 <br>
 
 <div align="center">
@@ -38,6 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitrimarinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
+  
 <div align="center">
   <a href="https://www.linkedin.com/in/dimitrimarinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
