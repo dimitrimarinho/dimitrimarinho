@@ -7,7 +7,7 @@
 
 <p align="justify"> Em Abril de 2022 concluí o <a href="https://drive.google.com/file/d/1cG_eNqThujruLk0hUhbbFQE27lqep8qV/view"> Bootcamp da Digital Innovation One de Cloud Data Engineer (Cognizant)</a>.<br> O conteúdo que aprendi no Bootcamp pode ser encontrado <a href="https://github.com/dimitrimarinho/Cognizant-Cloud-Data-Engineer-2/tree/main/Conte%C3%BAdo">[neste repositório]</a>.</p>
 
-<p justify-content="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>  Códigos em Python escritos por mim:</p>
+<p align-items="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>  Códigos em Python escritos por mim:</p>
 
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
