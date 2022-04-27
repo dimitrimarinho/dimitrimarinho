@@ -1,7 +1,7 @@
 ## Olá !  :wave: :smile: Me chamo Dimitri Marinho
 ### Seja bem-vindo/a ao meu GitHub !
 
-<p align="justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript e as linguagens de marcação HTML e CSS. Também estudo Python por conta própria.
+<p align="justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript e as linguagens de marcação HTML e CSS. Também estudo Python por conta própria. Recentamente concluí o <a href="https://drive.google.com/file/d/1cG_eNqThujruLk0hUhbbFQE27lqep8qV/view"> Bootcamp da Digital Innovation One de Cloud Data Engineer (Cognizant) </a>.
 
 Atualmente estou participando de um Bootcamp intensivo (08:00 às 17:00) de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 <br>
