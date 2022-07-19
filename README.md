@@ -11,7 +11,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> Códigos em Python escritos por mim:
 
 <li> https://github.com/dimitrimarinho/averag_mult_three </li>
-<li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Ad-hoc </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Begginer/Python%20Codes </li>
 <li> https://github.com/dimitrimarinho/URI-Codes/tree/master/Strings/Python%20Codes </li>
 <br></br>
