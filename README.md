@@ -1,6 +1,5 @@
 ## Olá !  :wave: :smile: Me chamo Dimitri Marinho
 ### Seja bem-vindo/a ao meu GitHub !
-[README em desenvolvimento]
 
 <p align="justify"> Sou graduando do Bacharelado em Ciência da Computação, já programei em diversas linguagens durante a faculdade, tais como as linguagens de programação: Pascal, C, C++, Java, Assembly, Python, Javascript. E também as linguagens de marcação: HTML, CSS, LaTeX e Markdown.</p> 
 
