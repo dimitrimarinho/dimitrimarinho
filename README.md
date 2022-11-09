@@ -4,7 +4,7 @@
 
 <p align="justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript, HTML e CSS. Também estudo Python por conta própria. 
 
-<p align="justify"> Em Julho de 2022 um Bootcamp intensivo de Java FullStack Jr. com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
+<p align="justify"> Em Julho de 2022 um <a href="https://drive.google.com/file/d/1cCJdqQDhmzJPwKuTiZ6rqFpiAbGl0MCx/view">Bootcamp intensivo de Java FullStack Jr.</a> com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 
 <p align="justify"> Em Abril de 2022 concluí o <a href="https://drive.google.com/file/d/1cG_eNqThujruLk0hUhbbFQE27lqep8qV/view"> Bootcamp da Digital Innovation One de Cloud Data Engineer (Cognizant)</a>.<br> O conteúdo que aprendi no Bootcamp pode ser encontrado <a href="https://github.com/dimitrimarinho/Cognizant-Cloud-Data-Engineer-2/tree/main/Conte%C3%BAdo">[neste repositório]</a>.</p>
 
