@@ -2,7 +2,7 @@
 ### Seja bem-vindo/a ao meu GitHub !
 [README em desenvolvimento]
 
-<p align="justify"> Sou graduando do Bacharelado de Ciência da Computação, já programei em diversas linguagens durante a faculdade: Pascal, C, C++, Java, Assembly. Além de já ter utilizado no meu primeiro estágio JavaScript, HTML e CSS. Também estudo Python por conta própria. 
+<p align="justify"> Sou graduando do Bacharelado em Ciência da Computação, já programei em diversas linguagens durante a faculdade, tais como as linguagens de programação: Pascal, C, C++, Java, Assembly, Python, Javascript. E também as linguagens de marcação: HTML, CSS, LaTeX e Markdown.</p> 
 
 <p align="justify"> Em Julho de 2022 um <a href="https://drive.google.com/file/d/1cCJdqQDhmzJPwKuTiZ6rqFpiAbGl0MCx/view">Bootcamp intensivo de Java FullStack Jr.</a> com duração de 3 meses proporcionado pela ONG Generation Brasil para ex-medalhistas da OBMEP (Olímpiada Brasileira de Matemática das Escolas Públicas).</p>
 
